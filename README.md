@@ -1,4 +1,4 @@
 # servicetable
 Servicetable repository
 
-Point of Sale managemnet application for restaurants.
+Point of Sale management application for restaurants.
