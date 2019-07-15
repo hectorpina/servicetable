@@ -3,12 +3,7 @@ Servicetable repository
 
 Point of Sale management application for restaurants.
 
-Contributors
-============
+# Contributors
 Maritza Pineda
 Wilson Angel
 Hector Piña
-
-# lol
-
-235
